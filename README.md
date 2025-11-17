@@ -10,6 +10,8 @@ experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](h
 [![CRAN
 status](https://www.r-pkg.org/badges/version/mtsdesc)](https://CRAN.R-project.org/package=mtsdesc)
 [![R-CMD-check](https://github.com/ricardo-semiao/mtsdesc/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ricardo-semiao/mtsdesc/actions/workflows/R-CMD-check.yaml)
+[![Codecov test
+coverage](https://codecov.io/gh/ricardo-semiao/mtsdesc/graph/badge.svg)](https://app.codecov.io/gh/ricardo-semiao/mtsdesc)
 <!-- badges: end -->
 
 The mtsdesc R package is being developed to provide mtsdesc provides

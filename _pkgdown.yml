@@ -1,4 +1,4 @@
-url: https://ricardo-semiao.github.io/mtsdesc/
+url: "." #https://ricardo-semiao.github.io/tools/mtsdesc/
 
 template:
   bootstrap: 5

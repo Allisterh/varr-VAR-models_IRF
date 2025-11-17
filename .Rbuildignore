@@ -14,3 +14,5 @@
 ^vignettes/\.quarto$
 ^vignettes/*_files$
 ^vignettes/_customizing_plots\.qmd$
+^revdep$
+^codecov\.yml$

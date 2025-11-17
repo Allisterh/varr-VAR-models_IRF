@@ -19,6 +19,7 @@ knitr::opts_chunk$set(
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 [![CRAN status](https://www.r-pkg.org/badges/version/mtsdesc)](https://CRAN.R-project.org/package=mtsdesc)
 [![R-CMD-check](https://github.com/ricardo-semiao/mtsdesc/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ricardo-semiao/mtsdesc/actions/workflows/R-CMD-check.yaml)
+[![Codecov test coverage](https://codecov.io/gh/ricardo-semiao/mtsdesc/graph/badge.svg)](https://app.codecov.io/gh/ricardo-semiao/mtsdesc)
 <!-- badges: end -->
 
 The mtsdesc R package is being developed to provide mtsdesc provides commonly needed utilities when working with a set of time series, i.e. multi-panel plots and multi-column summary- and testing-tables. The package also has methods to work with residuals of fitter values of multivariate time series models.
